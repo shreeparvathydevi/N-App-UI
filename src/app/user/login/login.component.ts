@@ -11,7 +11,7 @@ import { Router } from '@angular/router';
 })
 export class LoginComponent implements OnInit {
   formModel = {
-    UserName: '',
+    Username: '',
     Password: ''
   }
   constructor(private service: UserService, private router: Router, private toastr: ToastrService) { }

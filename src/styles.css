@@ -20,7 +20,7 @@ input.form-control:focus{
 }
 
 button[type=submit].btn{
-    border-radius: 20px;
+    border-block: 20px;
     background-color: #c50404;
     color: #fff;
 }
@@ -80,7 +80,7 @@ div.form-group.required>label:first-child:after{
     display:inline-block;
     padding: 30px 40px 10px 40px;
     cursor: pointer;
-    color: #545d6a;
+    color: #bcd2f0;
     border-bottom: 2px solid #c33636;
   }
 
